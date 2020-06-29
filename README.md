@@ -1,3 +1,3 @@
 # DrinksApp
 
-A simple flutter app with recipes of drinks
+A simple flutter app with drinks recipes
